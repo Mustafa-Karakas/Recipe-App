@@ -8,19 +8,19 @@ const About = () => {
             <StyledImage src={codingSvg} />
             <div>
                 <h1>
-                    About Software Developer <span>Josh Smith</span>
+                    About Software Developer <span>Mustafa Karakas</span>
                 </h1>
             </div>
             <InfoContainer>
-                <h2>Hi, I'am Josh</h2>
-                <h3>I'm currently learning Full-Stack Development Languages.</h3>
+                <h2>Hi, I'am Mustafa</h2>
+                <h3>I'm currently learning Front-End Development Languages.</h3>
                 <h4>
-                    I've already known JS, ReactJS, ReactNative, NodeJS, MongoDB,SQL,
-                    Python, AWS Services.
+                    I'm particularly interested in Front-end/Web Development, HTML, CSS,
+          JS, React.
                 </h4>
                 <h2>
-                    <a href="mailto:josh.smith@clarusway.com">Send email</a> :
-                    josh.smith@clarusway.com
+                    <a href="mailto:mustafakarakas_09@hotmail.com">Send email</a> :
+                    mustafakarakas_09@hotmail.com
                 </h2>
             </InfoContainer>
         </AboutContainer>
